@@ -32,4 +32,4 @@ jobs:
       uses: actions/cache@v4.2.0
       with:
         path: 
-         src/SimplCommerce.WebHost/bin/Release/net8.0/publish/*.*
+         src/SimplCommerce.WebHost/bin/Release/net8.0/publish
